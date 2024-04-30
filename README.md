@@ -6,6 +6,15 @@
 <h2 align="center">
   ～frame interpolation～
 
+  [![frame-interpolation-Docker - Sunwood-ai-labs](https://img.shields.io/static/v1?label=frame-interpolation-Docker&message=Sunwood-ai-labs&color=blue&logo=github)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker "Go to GitHub repo")
+[![stars - Sunwood-ai-labs](https://img.shields.io/github/stars/frame-interpolation-Docker/Sunwood-ai-labs?style=social)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+[![forks - Sunwood-ai-labs](https://img.shields.io/github/forks/frame-interpolation-Docker/Sunwood-ai-labs?style=social)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Sunwood-ai-labs/frame-interpolation-Docker)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Sunwood-ai-labs/frame-interpolation-Docker)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+[![GitHub Release](https://img.shields.io/github/v/release/Sunwood-ai-labs/frame-interpolation-Docker?sort=date&color=red)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+[![GitHub Tag](https://img.shields.io/github/v/tag/Sunwood-ai-labs/frame-interpolation-Docker?color=orange)](https://github.com/Sunwood-ai-labs/frame-interpolation-Docker)
+
+
 ## 概要
 
 FILM Dockerは、Google ResearchのFILM (Frame Interpolation for Large Scene Motion)を使って、動画の任意のフレーム間に新しいフレームを補間するDockerイメージです。 
