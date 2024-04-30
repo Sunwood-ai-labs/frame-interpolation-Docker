@@ -1,3 +1,17 @@
 /.idea/
 /venv/
 /output/
+*.zip
+
+photos/example01/interpolated_frames
+photos/example02/interpolated_frames
+photos/example03/interpolated_frames
+pretrained_models/
+
+*.mp4
+
+memo.md
+SourceSageAssets
+photos/example03/
+photos/example02/
+photos/example01/

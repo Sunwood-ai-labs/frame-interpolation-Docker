@@ -9,7 +9,7 @@ RUN pip install -r requirements.txt
 RUN apt update && apt install -y ffmpeg
 
 RUN mkdir Models
-COPY start.sh .
+# COPY start.sh .
 
 # Launch the web installer
-CMD ["./start.sh"]
+# CMD ["./start.sh"]

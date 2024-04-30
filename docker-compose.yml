@@ -4,7 +4,8 @@ services:
   app:
     build: .
     volumes:
-      - ./output:/output
+      - ./photos:/app/frame-interpolation/photos
+      - ./pretrained_models:/app/frame-interpolation/pretrained_models
     network_mode: host
     deploy:
       resources:
@@ -13,6 +14,5 @@ services:
             - driver: nvidia
               count: 1
               capabilities: [ gpu ]
-
-volumes:
-  output:
+    tty: true
+    
